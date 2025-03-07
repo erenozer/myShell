@@ -1,0 +1,42 @@
+D	/	.	Jan 05 2024 00:39	0
+~0~
+
+~0~
+F	/ex.txt	ex.txt	Jan 05 2024 00:41	8
+~0~
+hi there
+~0~
+D	/test	test	Jan 05 2024 00:58	0
+~0~
+
+~0~
+F	/test/ex2.txt	ex2.txt	Jan 05 2024 01:01	14
+~0~
+we meet again!
+~0~
+D	/hi	hi	Jan 06 2024 17:23	0
+~0~
+
+~0~
+D	/hi/hi2	hi2	Jan 06 2024 17:25	0
+~0~
+
+~0~
+S	/something	something	Jan 06 2024 21:21	0
+~0~
+/ex.txt
+~0~
+S	/test/imlink	imlink	Jan 09 2024 20:14	0
+~0~
+/test/ex2.txt
+~0~
+F	/hi/hi2/secret.txt	secret.txt	Jan 09 2024 22:25	25
+~0~
+somewhere only we
+know...
+~0~
+F	/info.txt	info.txt	Jan 09 2024 22:38	103
+~0~
+HW2 Operating System Shell Homework for Object Oriented Programming Course
+by Eren Özer - 220104004025
+~0~
